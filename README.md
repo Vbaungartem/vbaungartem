@@ -23,9 +23,17 @@ Após esse período, ao me destacar novamente, foi realizada uma proposta de efe
 Realizei por conta própria projetos de Desenvolvimento Front-end para afinar minhas habilidades técnicas de desenvolvimento, esses projetos poderão ser encontrados aqui, em meu repositório! :octocat:  
 
 ## MINHAS REDES SOCIAIS :iphone:
+<a href="https://www.linkedin.com/in/vit%C3%B3rio-baungartem-221041192/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com/vbaungartem/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
+</a> <a href="https://www.youtube.com/channel/UCf0N4i1rB9zSj33wsPL-91Q">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/vit%C3%B3rio-baungartem-221041192/">
+
 
 
 
