@@ -24,5 +24,7 @@ Realizei por conta própria projetos de Desenvolvimento Front-end para afinar mi
 
 ## MINHAS REDES SOCIAIS :iphone:
 
-![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> (<https://www.linkedin.com/in/vit%C3%B3rio-baungartem-221041192/>)]; [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> (<instagram.com/vbaungartem>)]; [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> (<youtube.com>)] (Em breve)
+
+
 
