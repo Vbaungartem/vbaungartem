@@ -109,7 +109,7 @@
 
 
 
-<hr>  
+
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22thqp6yq5f52arjrq6zjn33y&cover_image=true&theme=default" /></div>  
 
