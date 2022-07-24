@@ -36,7 +36,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 </div>
 
-
 </td><td valign="top" width="33%">
 
 
@@ -76,7 +75,7 @@
 <br/>  
 
 
-## Connect with me  
+## Meus Contatos!  
 
 <div align="center">
 <a href="https://github.com/vbaungartem" target="_blank">
@@ -99,10 +98,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=vbaungartem&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<br/>  
-
+  
 
 ## 
+
+
+
+
 
 <br/>  
 
@@ -124,4 +126,3 @@
 
 ----
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
