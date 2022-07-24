@@ -93,10 +93,15 @@
 
 <br/>  
 
-
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=vbaungartem&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<hr>
+
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=vbaungartem&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
   
 
@@ -104,13 +109,7 @@
 
 
 
-
-
-<br/>
-
-<br/>
-
-<br/>  
+<hr>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22thqp6yq5f52arjrq6zjn33y&cover_image=true&theme=default" /></div>  
 
