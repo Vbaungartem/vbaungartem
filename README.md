@@ -1,39 +1,127 @@
-#  Bem-vindo ao meu Mundo
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
-Me chamo Vitório Baungartem, sou natural do Espírito Santo e atualmente moro em Cachoeiro de Itapemirim, onde curso Sistemas de Informação No Instituto Federal do Espírito Santo (IFES) e trabalho como Técnico de Informática na Cooperativa de Laticínios Selita. 
+  
 
-### Meus objetivos :sunrise_over_mountains:
+### <div align="center">Me chamo Vitório Baungartem da Silva  👨‍💻 atualmente trabalho no departamento de Tecnologia de Informação da Cooperativa de Laticínios Selita 🚀</div>  
 
-Atualmente busco finalizar meu curso superior e me especializar na área de desenvolvimento Fullstack, aprimorando toda e qualquer linguagem e tecnologia necessária. 
 
-### Habilidades Gerais :computer:
-![Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+- 🔭 Atualmente estou estudando C# e ASP.NET Core  
 
-### Habilidades Específicas :floppy_disk:
+- 🌱 Tenho interesse também em Springboot e Desenvolvimento em JAVA  
 
-Possuo experiência com desenvolvimento de projetos responsivos front-end, desenvolvimento de projetos em PHP e JAVA em padrão MVC, persistência de dados, controle de versionamento de projetos e edições avançadas com as ferramentas Adobe Photoshop e Premiere PRO.
+- ❓ Estou disposto a dialogar sobre tecnologias Backend e seus derivados  
 
-### Minha Experiência :rocket:
+- ⚡ Fato engraçado: Não consigo manter um tema no VSCode por mais de uma semana XD  
 
-2021/1: Iniciei meu primeiro estágio na Briefing Publicidade, onde realizei serviços de Design, Suporte ao Usuário e Auxílio em Planejamentos Publicitários.
+<br/>  
 
-2021/2 e 2022: Me destacando em meus serviços recebi a proposta de estagiar no Setor de Tecnologia de Informação da Cooperativa de Laticínios Selita, onde por 5 meses exerci serviços de Suporte ao Usuário, monitoramento ZABBIX, e acompanhei desenvolvimentos de projetos internos.
-Após esse período, ao me destacar novamente, foi realizada uma proposta de efetivação onde hoje, exerço meus serviços integralmente. 
 
-Realizei por conta própria projetos de Desenvolvimento Front-end para afinar minhas habilidades técnicas de desenvolvimento, esses projetos poderão ser encontrados aqui, em meu repositório! :octocat:  
+## My Skill Set  
 
-## MINHAS REDES SOCIAIS :iphone:
-<a href="https://www.linkedin.com/in/vit%C3%B3rio-baungartem-221041192/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<table><tr><td valign="top" width="33%">
+
+
+
+
+### Frontend  
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+</div>
+
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+</div>
+
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
+</div>
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+
+<div align="center">
+<a href="https://github.com/vbaungartem" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/vbaungartem/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
-</a> <a href="https://www.youtube.com/channel/UCf0N4i1rB9zSj33wsPL-91Q">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://linkedin.com/in//vit%C3%B3rio-baungartem-221041192/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://instagram.com/vbaungartem" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+  
+
+<br/>  
 
 
+## Github Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=vbaungartem&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<br/>  
 
 
+## 
 
+<br/>  
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22thqp6yq5f52arjrq6zjn33y&cover_image=true&theme=default" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=vbaungartem&&style=flat-square" align="center" />
+</div>  
+
+  
+
+<br/>  
+
+<div align="center"></div>
+
+<br />
+
+----
+
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
