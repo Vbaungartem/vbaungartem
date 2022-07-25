@@ -106,19 +106,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="right" />
 </div>  
 
-
-
-
-
-
-
-
-
-
+<br>
+<hr>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22thqp6yq5f52arjrq6zjn33y&cover_image=true&theme=default" /></div>  
 
-<br/>  
+<br />  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vbaungartem&&style=flat-square" align="center" />
@@ -127,7 +120,7 @@
 
 
 
-<br/>  
+<br />  
 
 <div align="center"></div>
 
