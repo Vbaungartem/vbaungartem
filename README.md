@@ -2,7 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-  
+
+
 
 ### <div align="center">Me chamo Vitório Baungartem da Silva  👨‍💻 atualmente trabalho no departamento de Tecnologia de Informação da Cooperativa de Laticínios Selita 🚀</div>  
 
@@ -25,6 +26,7 @@
 
 
 
+
 ### Frontend  
 
 <div align="center">  
@@ -35,6 +37,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 </div>
+
 
 </td><td valign="top" width="33%">
 
@@ -50,6 +53,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 </div>
+
 
 
 </td><td valign="top" width="33%">
@@ -68,6 +72,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
 </div>
+
 
 
 </td></tr></table>  
@@ -89,7 +94,8 @@
 </a>  
 </div>  
 
-  
+
+
 
 <br/>  
 
@@ -103,7 +109,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=vbaungartem&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
-  
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" /></div>  
+
+
+
+
+
+
+
+
 
 ## 
 
@@ -119,7 +133,8 @@
 <img src="https://komarev.com/ghpvc/?username=vbaungartem&&style=flat-square" align="center" />
 </div>  
 
-  
+
+
 
 <br/>  
 
@@ -128,4 +143,3 @@
 <br />
 
 ----
-
