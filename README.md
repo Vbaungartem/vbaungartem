@@ -5,16 +5,16 @@
 
 
 
-### <div align="center">Me chamo Vitório Baungartem da Silva  👨‍💻 atualmente trabalho no departamento de Tecnologia de Informação da Cooperativa de Laticínios Selita 🚀</div>  
+### <div align="center">Me chamo Vitório Baungartem da Silva  👨‍💻 Desenvolvedor Backend da Captar Soluções Tecnológicas! 🚀</div>  
 
 
-- 🔭 Atualmente estou estudando C# e ASP.NET Core  
+- 🔭 Atualmente estudo e trabalho com C# e ASP.NET Core  (~ 6 Meses)
 
-- 🌱 Tenho interesse também em Springboot e Desenvolvimento em JAVA  
+- 🌱 Tenho interesse também em PHP e Laravel  
 
 - ❓ Estou disposto a dialogar sobre tecnologias Backend e seus derivados  
 
-- ⚡ Fato engraçado: Não consigo manter um tema no VSCode por mais de uma semana XD  
+- ⚡ Trabalho como Desenvolvedor a cerca de 1 ano 
 
 <br/>  
 
