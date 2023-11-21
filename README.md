@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQH_LilOYQtxFg/profile-displaybackgroundimage-shrink_350_1400/0/1664982971411?e=1706140800&v=beta&t=vxcTMtlzNNWmtS4kg4HDnWB8fzVyI-zRhpWatA39Q2w" width="100%">
-
+----
 # Sobre mim:
 
 Sou um Desenvolvedor Back end com experiência em .NET atuando a pouco mais de um ano na área de Desenvolvimento e análise de Software, focado em aplicações WEB com C# e .NET (6+) e Cloud (Azure/AWS). 
@@ -7,10 +7,12 @@ Com vivência em metodologias e cerimônias ágeis.
 
 Atualmente atuo como Back end .NET Developer na [Dotkon Software & Cloud Services](https://dotkon.co).
 
+----
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vbaungartem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vbaungartem) 
 
-------
+----
 
 ##### :heavy_check_mark:Especialidades
 
