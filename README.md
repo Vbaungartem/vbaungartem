@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQH_LilOYQtxFg/profile-displaybackgroundimage-shrink_350_1400/0/1664982971411?e=1706140800&v=beta&t=vxcTMtlzNNWmtS4kg4HDnWB8fzVyI-zRhpWatA39Q2w" width="100%">
-Sobre mim:
+# Sobre mim:
 
 Sou um Desenvolvedor Back end com experiência em .NET atuando a pouco mais de um ano na área de Desenvolvimento e análise de Software, focado em aplicações WEB com C# e .NET (6+) e Cloud (Azure/AWS). 
 Com vivência em metodologias e cerimônias ágeis.
