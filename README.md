@@ -1,7 +1,7 @@
 
 # 💫 Sobre mim:
 
-Sou um Desenvolvedor Back end com experiência em .NET atuando a pouco mais de um ano na área de Desenvolvimento e análise de Software, focado em aplicações WEB (.NET MVC / .NET Web API / .NET Razor Pages) e Cloud (Azure/AWS). 
+Sou um Desenvolvedor Back end com experiência em .NET atuando a pouco mais de um ano na área de Desenvolvimento e análise de Software, focado em aplicações WEB com C# e .NET (6+) e Cloud (Azure/AWS). 
 Com vivência em metodologias e cerimônias ágeis.
 
 Atualmente atuo como Back end .NET Developer na [Dotkon Software & Cloud Services](https://dotkon.co).
