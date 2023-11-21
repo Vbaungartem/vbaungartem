@@ -1,9 +1,10 @@
 
 # 💫 Sobre mim:
 
-Sou um Desenvolvedor/Analista Fullstack com experiência em .NET atuando a 2 anos na área de Desenvolvimento e análise de Software focado em aplicações WEB (.NET MVC / .NET Web API / .NET Razor Pages / Angular) e Cloud (AWS). 
+Sou um Desenvolvedor Back end com experiência em .NET atuando a pouco mais de um ano na área de Desenvolvimento e análise de Software, focado em aplicações WEB (.NET MVC / .NET Web API / .NET Razor Pages) e Cloud (Azure/AWS). 
 Com vivência em metodologias e cerimônias ágeis.
 
+Atualmente atuo como Back end .NET Developer na [Dotkon Software & Cloud Services](https://dotkon.co).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vbaungartem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vbaungartem) 
