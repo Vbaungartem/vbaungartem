@@ -1,20 +1,21 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQH_LilOYQtxFg/profile-displaybackgroundimage-shrink_350_1400/0/1664982971411?e=1706140800&v=beta&t=vxcTMtlzNNWmtS4kg4HDnWB8fzVyI-zRhpWatA39Q2w" width="100%">
-----
-# Sobre mim:
+
+
+### Sobre mim:
 
 Sou um Desenvolvedor Back end com experiência em .NET atuando a pouco mais de um ano na área de Desenvolvimento e análise de Software, focado em aplicações WEB com C# e .NET (6+) e Cloud (Azure/AWS). 
 Com vivência em metodologias e cerimônias ágeis.
 
 Atualmente atuo como Back end .NET Developer na [Dotkon Software & Cloud Services](https://dotkon.co).
 
-----
 
-## 🌐 Socials:
+
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vbaungartem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vbaungartem) 
 
-----
 
-##### :heavy_check_mark:Especialidades
+
+### :heavy_check_mark:Especialidades
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
@@ -35,8 +36,8 @@ Atualmente atuo como Back end .NET Developer na [Dotkon Software & Cloud Service
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-----
-# 📊 GitHub Stats:
+
+### 📊 GitHub Stats:
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Vbaungartem&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 
 <div style="align:center">
@@ -44,13 +45,15 @@ Atualmente atuo como Back end .NET Developer na [Dotkon Software & Cloud Service
       <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbaungartem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-## 🏆 GitHub Trophies
+
+
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vbaungartem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Vbaungartem&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
