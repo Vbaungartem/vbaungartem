@@ -8,9 +8,9 @@
 
 ## 👩‍💻 About me
  
-👩‍💻 Working on Globalsys - Smartsourcing
+👩‍💻 Working on Datum, on a Bank Client
 
-🧠 Learning about Azure, .NET/C# 
+🧠 Learning about AWS, Azure, IA and .NET/C# 
 
 🤔 Software Architecture Entusiast
 
